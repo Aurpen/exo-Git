@@ -17,10 +17,14 @@ Enfin, téléchargez ce document texte. Indiquez votre URL après "L'URL de mon 
 ###########################################################################
 Bonjour,
 
-Par manque d'inspiration total, j'ai opté pour récupérer le contenu de Wikipédia sur Git.
+Par manque d'inspiration totale, j'ai opté pour récupérer le contenu de Wikipédia sur Git.
 
-1 - Le premier fichier git.txt sera un résumé rapide de ce qu'est Git
+1 - Le premier fichier git.txt sera un résumé rapide de ce qu'est Git... vraiment rapide.
 2 - Le 2nd sera uniquement sur ses commandes terminal
 
-Quand au ReadME vous êtes dessus ^^
+Quand au README vous êtes dessus ^^
+
+Bonne correction et bon courage pour la suite
+
+Cordialement.
 
